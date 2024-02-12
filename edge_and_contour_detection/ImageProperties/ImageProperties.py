@@ -8,7 +8,7 @@ class ImageProperties:
         self.shape = self.image.shape
         self.height = self.image.shape[0]
         self.width = self.image.shape[1]
-        if self.image.shape[2] != 0:
+        if self.image.shape[2] == 3:
             self.channels = self.image.shape[2]
         else:
             self.channels = 1
