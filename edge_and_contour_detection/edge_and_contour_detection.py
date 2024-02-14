@@ -24,7 +24,7 @@ if __name__ == "__main__":
         # method: 1 for Sobel, 2 for Canny
         'method': 2,
         'ksize': 3,  # only for Sobel method (default 3)
-        'thresholds': (100, 200)  # only for Canny method (default (50, 100))
+        'thresholds': (90, 190)  # only for Canny method (default (50, 100))
     }
 
     parameters_contour = {
@@ -33,7 +33,7 @@ if __name__ == "__main__":
         # 4=cv.CHAIN_APPROX_TC89_KCOS
         'kernel': 1,  # 1=cv2.MORPH_RECT, 2=cv2.MORPH_ELLIPSE, 3=cv2.MORPH_CROSS
         'ksize': (5, 5),
-        'iterations': 5  # number of iterations
+        'iterations': 7  # number of iterations
     }
 
     ############ EDGE DETECTION ########################################################################################
