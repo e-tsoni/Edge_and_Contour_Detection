@@ -5,7 +5,7 @@ class ContourDetection:
     def __init__(self, edged, or_img, parameters_contour):
         self.edged = edged
         self.image = or_img
-        self.kernel = cv2.getStructuringElement(cv2.MORPH_RECT, (3, 3))
+        # self.kernel = cv2.getStructuringElement(cv2.MORPH_RECT, (3, 3))
         self.mode = parameters_contour['mode']
         self.approx_mode = parameters_contour['approx_mode']
         if parameters_contour['kernel'] == 1:

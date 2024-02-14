@@ -30,6 +30,10 @@ In the "edge_and_contour_detection.py":
 - cv2.__version__ == 4.8.1
 - np.__version__ == 1.26.0
 
-## Use cases
+## Use Cases
 
-[<img alt="N|Use Cases" src="imgs\UML\UC_edges_and_contours.png"/>
+<img alt="N|Use Cases" src="imgs\UML\UC_edges_and_contours.png"/>
+
+## Class Diagram 
+
+<img alt="N|Class Diagram" src="imgs\UML\ClassDiagram.png"/>
