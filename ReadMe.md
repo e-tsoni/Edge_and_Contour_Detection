@@ -1,4 +1,4 @@
-[<img src="imgs\UML\Requirements.jpg"/>
+<img src="imgs\UML\Requirements.jpg"/>
 
 ## Requirements / Main Functionality
 
