@@ -1,4 +1,4 @@
-[<img src="\Edge_and_Contour_Detection\imgs\UML\Requirements.jpg"/>
+[<img src="imgs\UML\Requirements.jpg"/>
 
 ## Requirements / Main Functionality
 
@@ -32,4 +32,4 @@ In the "edge_and_contour_detection.py":
 
 ## Use cases
 
-[<img alt="N|Use Cases" src="\Edge_and_Contour_Detection\imgs\UML\UC_edges_and_contours.png"/>
+[<img alt="N|Use Cases" src="imgs\UML\UC_edges_and_contours.png"/>
