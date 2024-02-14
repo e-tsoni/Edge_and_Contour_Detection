@@ -15,9 +15,12 @@ Dictionaries:
 - parameters_edge{}
 - parameters_contour{}
 
-This text you see here is *actually- written in Markdown! To get a feel
-for Markdown's syntax, type some text into the left window and
-watch the results in the right.
+For more details regarding the parameters, please visit:
+[OpenCV documentation](https://docs.opencv.org/3.4/index.html)
+- [Canny Edge Detection](https://docs.opencv.org/3.4/da/d22/tutorial_py_canny.html)
+- [Sobel Edge Detection](https://docs.opencv.org/3.4/d2/d2c/tutorial_sobel_derivatives.html)
+- [Contours](https://docs.opencv.org/3.4/d4/d73/tutorial_py_contours_begin.html)
+
 
 ## How to use:
 In the "edge_and_contour_detection.py":
