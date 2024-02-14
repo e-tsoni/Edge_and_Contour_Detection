@@ -1,8 +1,5 @@
-import sys as s
 import os
-import cv2
 from PIL import Image
-import numpy as np
 from pathlib import Path
 
 from ImageProperties.ImageProperties import ImageProperties
